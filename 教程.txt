@@ -1,0 +1,5 @@
+解压之后从bookdown-chinese.Rproj进入
+
+在console中运行bookdown::serve_book()，这一步需要提前安装servr包
+
+在浏览器中打开http://127.0.0.1:4321
